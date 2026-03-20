@@ -68,8 +68,10 @@ python main.py < prueba.txt
 
 ## Estructura del proyecto
 
+```
 reto-semana-02/
 │
 ├── README.md
 ├── main.py
 └── .gitignore
+```
