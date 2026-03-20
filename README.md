@@ -1,5 +1,5 @@
 # Clasificador de Temperaturas - Reto Semana 2
-## Ana Py - 3AM1
+## Fanny Valderrama Lopez - 3AM1
 
 Programa en Python que procesa datos de temperatura por ciudad desde la entrada estándar (stdin), convierte unidades si es necesario y clasifica cada temperatura.
 
